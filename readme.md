@@ -32,14 +32,6 @@ I’m passionate about building efficient and scalable backend systems. Currentl
 
 ---
 
-## 📊 GitHub Stats  
-
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinShinde&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinShinde&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
@@ -47,3 +39,4 @@ I’m passionate about building efficient and scalable backend systems. Currentl
 
 ---
 ⭐️ From [Sachin Shinde](https://github.com/SachinShinde)
+
